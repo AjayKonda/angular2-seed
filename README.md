@@ -10,3 +10,4 @@ A simple starter project for Angular 2.
 - run `npm install` to install dependencies
 - run `npm start` to fire up dev server
 - open browser to [`http://localhost:3000`](http://localhost:3000)
+- There you go! your first Angular2 app!
